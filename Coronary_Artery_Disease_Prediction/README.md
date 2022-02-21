@@ -1,1 +1,3 @@
-
+Coronary artery disease (CAD) also referred to as ischemic heart disease is the leading cause of death or disability globally. It is estimated that more than 10 million deaths per year are caused by CAD. The most common form of CAD is the narrowing of coronary arteries due to plaque formation and diminished blood supply to the cardiac muscle. Symptoms of CAD include chest pain (angina), shortness of breath and muscle weakness. If diagnosed and treated promptly, extensive damage to the cardiac muscle can be minimized.
+  
+In this project, I explore the predictive capability of a Machine Learning model to correctly identify if a patient suffers from CAD based on various non-invasive parameters (features) measured in a clinical setting. 
